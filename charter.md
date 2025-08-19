@@ -98,4 +98,4 @@ This charter is expected to change as CAJA grows. The process for making edits i
    Both actions - close or merge - require a 2/3 majority to pass. If this does not happen, the pull request remains open for comments and updates, and the vote is deferred until the next general meeting.
 
 
-[^1]: If editing via the github web interface, on your first commit, select the "Create a **new branch** for this commit and start a pull request" option instead of "Commit directly to the `main` branch". Enter your new branch's name in the text box. After you click "Propose Changes", it will take you to a page where you can make your pull request. If you're not ready to make a pull request, you can just go back to editing the charter - your changes will be kept. On subsequent changes, you can just keep the "Commit directly to the `your-branch-name` branch" option. 
+[^1]: If editing via the github web interface, on your first commit, it will take you to a page to submit a pull request. You don't need to actually do that; you can just go back to editing the charter. Your newly created branch with all your changes will still be there.
