@@ -86,7 +86,7 @@ The CAJA executive committee may meet informally at its discretion, but all majo
 
 ## EDITING THE CHARTER
 This charter is expected to change as CAJA grows. The process for making edits is as follows:
-1. Anyone makes changes to this document by editing it and committing the changes to a new branch. The branch should follow the naming convention `<author-name>/<change-description>`.
+1. Anyone makes changes to this document by editing it and committing the changes to a new branch[^1]. The branch should follow the naming convention `<author-name>/<change-description>`.
 2. When they are satisfied with the changes, they create a pull request on github and publicize this to (at least) the members of the voting council. The pull request must include, at a minimum:
      - A brief summary of the changes made
      - Why the changes are believed to be necessary
@@ -96,3 +96,6 @@ This charter is expected to change as CAJA grows. The process for making edits i
      - Merge the pull request (accept the changes)
      - Abstain
    Both actions - close or merge - require a 2/3 majority to pass. If this does not happen, the pull request remains open for comments and updates, and the vote is deferred until the next general meeting.
+
+
+[^1]: If editing via the github web interface, on your first commit, select the "Create a **new branch** for this commit and start a pull request" option instead of "Commit directly to the `main` branch". Enter your new branch's name in the text box. After you click "Propose Changes", it will take you to a page where you can make your pull request. If you're not ready to make a pull request, you can just go back to editing the charter - your changes will be kept. On subsequent changes, you can just keep the "Commit directly to the `your-branch-name` branch" option. 
