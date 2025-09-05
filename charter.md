@@ -83,3 +83,20 @@ The CAJA executive committee may meet informally at its discretion, but all majo
 1. **Prior:** Voting council or executive committee members submit topics for discussion to the Secretary. The Secretary posts a meeting agenda to the CAJA Discord server, ideally a few days before the scheduled meeting.  
 2. **Day of:** The Chairperson (or pre-appointed substitute) initiates the meeting and takes a quorum. Not all council or committee members are required to attend every meeting, but major decisions can only be made with council majority approval during a vote with sufficient voting members present. The Chairperson moderates the meeting per the agenda, prioritizing topics at their discretion. The Secretary takes minutes and notes on discussions and votes.  
 3. **After:** The Secretary submits minutes to the council in the CAJA Discord server, and optionally also to public channels for all California members. The Chairperson and Secretary schedule the next CAJA meeting with input from those expected to be present.
+
+## EDITING THE CHARTER
+This charter is expected to change as CAJA grows. The charter as available on the `main` branch (available at [github.com/california-jugger/charter](https://github.com/california-jugger/charter)) is always the current active charter.  
+The process for making edits is as follows:
+1. Anyone makes changes to this document by editing it and committing the changes to a new branch[^1]. The branch should follow the naming convention `<author-name>/<change-description>`.
+2. When they are satisfied with the changes, they create a pull request on github and publicize this to (at least) the members of the voting council. The pull request must include, at a minimum:
+     - A brief summary of the changes made
+     - Why the changes are believed to be necessary
+3. Anyone may discuss the changes and provide feedback or suggestions in the comments of the pull request.
+4. At the next CAJA general meeting, the voting council votes to determine the status of the pull request. They must choose to
+     - Close the pull request (reject the changes)
+     - Merge the pull request (accept the changes)
+     - Abstain
+   Both actions - close or merge - require a 2/3 majority to pass. If this does not happen, the pull request remains open for comments and updates, and the vote is deferred until the next general meeting.
+
+
+[^1]: If editing via the github web interface, on your first commit, it will take you to a page to submit a pull request. You don't need to actually do that; you can just go back to editing the charter. Your newly created branch with all your changes will still be there.
