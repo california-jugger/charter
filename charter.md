@@ -85,7 +85,8 @@ The CAJA executive committee may meet informally at its discretion, but all majo
 3. **After:** The Secretary submits minutes to the council in the CAJA Discord server, and optionally also to public channels for all California members. The Chairperson and Secretary schedule the next CAJA meeting with input from those expected to be present.
 
 ## EDITING THE CHARTER
-This charter is expected to change as CAJA grows. The process for making edits is as follows:
+This charter is expected to change as CAJA grows. The charter as available on the `main` branch (available at [github.com/california-jugger/charter](https://github.com/california-jugger/charter)) is always the current active charter.  
+The process for making edits is as follows:
 1. Anyone makes changes to this document by editing it and committing the changes to a new branch[^1]. The branch should follow the naming convention `<author-name>/<change-description>`.
 2. When they are satisfied with the changes, they create a pull request on github and publicize this to (at least) the members of the voting council. The pull request must include, at a minimum:
      - A brief summary of the changes made
