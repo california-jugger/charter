@@ -87,7 +87,7 @@ The CAJA executive committee may meet informally at its discretion, but all majo
 ## EDITING THE CHARTER
 This charter is expected to change as CAJA grows. The charter as available on the `main` branch (available at [github.com/california-jugger/charter](https://github.com/california-jugger/charter)) is always the current active charter.  
 The process for making edits is as follows:
-1. Anyone makes changes to this document by editing it and committing the changes to a new branch[^1]. The branch should follow the naming convention `<author-name>/<change-description>`.
+1. Anyone makes changes to this document on a fork of this repository.
 2. When they are satisfied with the changes, they create a pull request on github and publicize this to (at least) the members of the voting council. The pull request must include, at a minimum:
      - A brief summary of the changes made
      - Why the changes are believed to be necessary
@@ -98,5 +98,3 @@ The process for making edits is as follows:
      - Abstain
    Both actions - close or merge - require a 2/3 majority to pass. If this does not happen, the pull request remains open for comments and updates, and the vote is deferred until the next general meeting.
 
-
-[^1]: If editing via the github web interface, on your first commit, it will take you to a page to submit a pull request. You don't need to actually do that; you can just go back to editing the charter. Your newly created branch with all your changes will still be there.
