@@ -86,7 +86,7 @@ The CAJA executive committee may meet informally at its discretion, but all majo
 
 ## VOTING RIGHTS
 
-Voting council is composed as group of one representative from each club under CAJA, alongside a miscelaneous vote for players who do not feel represented by any given club.
+Voting council is composed as group of one representative from each club under CAJA, alongside a miscellaneous vote for players who do not feel represented by any given club.
 
 CAJA defines a club as the following;
 1. A club is a group of organized jugger players that practice together in a distinct geographical location.
@@ -107,26 +107,26 @@ A club may apply for voting rights via the following application method;
 
 The legitimacy of the application is down to the discretion of the voting council. The clubs entrance into the voting council will be voted upon at the next general meeting *at least fourteen days* after the initial request is made.
 
-One miscelaneous vote is to be provided. The miscelaneous vote must have at least 2 players represented under the vote to be active. The vote aims to capture the thoughts of players who *do not feel represented under any club vote in voting council* and *are not connected to enough players in their area to form a new club*. 
-The miscelaneous vote should be covered by a representative who feels confident that they can gather the interests and opinions of the players captured under the vote.
+One miscellaneous vote is to be provided. The miscelaneous vote must have at least 2 players represented under the vote to be active. The vote aims to capture the thoughts of players who *do not feel represented under any club vote in voting council* and *are not connected to enough players in their area to form a new club*. 
+The miscellaneous vote should be covered by a representative who feels confident that they can gather the interests and opinions of the players captured under the vote.
 
-A player may sign up for the miscelaneous vote group via the following application method;
+A player may sign up for the miscellaneous vote group via the following application method;
 
-1. The player should make a post in the "voting-issues" forum channel in the California Jugger discord titled "(Player First Name / Discord handle) MISCELANOUS VOTE APPLICATION"
+1. The player should make a post in the "voting-issues" forum channel in the California Jugger discord titled "(Player First Name / Discord handle) MISCELLANOUS VOTE APPLICATION"
 2. Within the application, the player should list;
     a. Their name and time played.
     b. Their geographical location.
     c. An explanation for why they do not feel represented by any club currently on voting council.
     d. An explanation on why seeking club voting status is infeasible from their position.
 
-The legitimacy of the application is down to the discretion of the voting council. The players entrance into the miscelaneous vote will be voted upon at the next general meeting *at least fourteen days* after the initial request is made.
+The legitimacy of the application is down to the discretion of the voting council. The players entrance into the miscellaneous vote will be voted upon at the next general meeting *at least fourteen days* after the initial request is made.
 
 Voting rights are to be reexamined at the end of the first quarter and the third quarter of the year. This examination is to ensure that every club in the voting council is still active and thoroughly represented.
-To keep track of activeness, the Secretary is to keep a log of every general meeting attended by each member of voting council, and each miscelaneous voter. If any individual voting body has missed 4 or more general meetings since the previous reexamination, it is to be flagged at the next meeting.
+To keep track of activeness, the Secretary is to keep a log of every general meeting attended by each member of voting council, and each miscellaneous voter. If any individual voting body has missed 4 or more general meetings since the previous reexamination, it is to be flagged at the next meeting.
 
 The reexamination process falls as follows;
 1. The President organizes and announces, at a general meeting either at the end of the 1st/3rd quarter or beginning of the 2nd/4th quarter, wherein a role-call of voting council is to be expected.
-2. Each member of voting council, and voter under the miscelaneous vote is to attend. The president is to check with each member of voting council that they are interested in renewing their position on voting council.
+2. Each member of voting council, and voter under the miscellaneous vote is to attend. The president is to check with each member of voting council that they are interested in renewing their position on voting council.
 3. Any voting body flagged for inactivity is to be warned. If any voting body recieves a warning at two consecutive reexaminations, they are to be removed from voting council for the next complete quarter. They may reapply to voting council from the beginning of the following quarter. Voting bodies with only one warning should be reminded of this fact.
 4. Each member that concurs to continue remaining on voting council is to have their voting rights renewed until the next reexamination.
 
