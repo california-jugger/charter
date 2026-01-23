@@ -23,7 +23,7 @@ Longer-term objectives:
 CAJA comprises all teams within California who voluntarily participate in the organization. The official functions of CAJA are performed by three bodies: the **voting council**, **wellness committee**, and **executive committee**.
 
 **Voting Council:** One member per active member team who votes on major matters. Teams with a vote choose their own representatives.  
-  - The council oversees the executive committee and can remove appointees by vote.  
+  - Application onto the voting council is listed in the [Voting Rights](#voting-rights) section.
   - Any member of the council can propose a vote. Not all CAJA proceedings or activities require a vote, but if a council member demands a vote on something then majority approval (simple majority, i.e. \>50%) is required for the motion to proceed.
 
 **Wellness Committee:** A group of volunteers, appointed by the community, who have the ability to enforce and arbitrate interpersonal disputes and relations both within the organization, and within member teams of the organization. 
@@ -31,7 +31,6 @@ CAJA comprises all teams within California who voluntarily participate in the or
  - Wellness committee appointees require approval by majority wellness committee volunteer vote.
  - The capabilities and actions the wellness committee is permitted to take are detailed in the CAJA Grievance Procediure.
  - The work the wellness committee does should not be influenced or determined by Executive Committee or Voting Council. The wellness committee has the final say in enforcing the work it does.
-
 
 **Executive Committee:** Appointed members of the community, led by the CAJA Chairperson, who execute the primary functions of NJA. Positions and responsibilities are described in more detail below.  
   - Any CAJA community member is eligible to serve on the committee, even if they’re not on an active team.  
@@ -112,6 +111,54 @@ An ideal meeting is structured approximately as follows:
 1. **Prior:** Voting council or executive committee members submit topics for discussion to the Secretary. The Secretary posts a meeting agenda to the CAJA Discord server, ideally a few days before the scheduled meeting.  
 2. **Day of:** The Chairperson (or pre-appointed substitute) initiates the meeting and takes a quorum. Not all council or committee members are required to attend every meeting, but major decisions can only be made with council majority approval during a vote with sufficient voting members present. The Chairperson moderates the meeting per the agenda, prioritizing topics at their discretion. The Secretary takes minutes and notes on discussions and votes.  
 3. **After:** The Secretary submits minutes to the council in the CAJA Discord server, and optionally also to public channels for all California members. The Chairperson and Secretary schedule the next CAJA meeting with input from those expected to be present.
+
+## VOTING RIGHTS
+
+Voting council is composed as group of one representative from each club under CAJA, alongside a miscellaneous vote for players who do not feel represented by any given club.
+
+CAJA defines a club as the following;
+1. A club is a group of organized jugger players that practice together in a distinct geographical location.
+2. A club must run at least two practices each quarter that are directly overseen by the clubs leadership - attending a practice hosted by a seperate club does not count to this.
+   a. A practice is defined by CAJA an event hosted by the club with the intent of playing and facilitating the sport of jugger, with at least 5 people present over the course of the practice.
+3. A club has at least five active players.
+   
+Each club is given one vote, and there is always a miscellaneous vote. Votes do not scale with club size.
+A club may apply for voting rights via the following application method;
+
+1. A member of club leadership (hereby referred to as the officer) should make a post in the "voting-issues" forum channel in the California Jugger discord titled "(Team Name) VOTING COUNCIL APPLICATION"
+2. Within the application, the officer should list;
+    a. The name of the club.
+    b. The geographical location of the club.
+    c. The current active number of players.
+    d. The location of practices, and when they are run.
+    e. The distinction of the club from other nearby jugger clubs, if necessary.
+3. The officer should then provide at least 2 forms of photo or video evidence of a practice.
+
+The legitimacy of the application is down to the discretion of the voting council. The clubs entrance into the voting council will be voted upon at the next general meeting *at least fourteen days* after the initial request is made.
+
+One miscellaneous vote is to be provided. The miscellaneous vote must have at least 2 players represented under the vote to be active. The vote aims to capture the thoughts of players who *do not feel represented under any club vote in voting council* and *are not connected to enough players in their area to form a new club*. 
+The miscellaneous vote should be covered by a representative who feels confident that they can gather the interests and opinions of the players captured under the vote.
+
+A player may sign up for the miscellaneous vote group via the following application method;
+
+1. The player should make a post in the "voting-issues" forum channel in the California Jugger discord titled "(Player First Name / Discord handle) MISCELLANOUS VOTE APPLICATION"
+2. Within the application, the player should list;
+    a. Their name and time played.
+    b. Their geographical location.
+    c. An explanation for why they do not feel represented by any club currently on voting council.
+    d. An explanation on why seeking club voting status is infeasible from their position.
+
+The legitimacy of the application is down to the discretion of the voting council. The players entrance into the miscellaneous vote will be voted upon at the next general meeting *at least fourteen days* after the initial request is made.
+
+Voting rights are to be reexamined at the end of the first quarter and the third quarter of the year. This examination is to ensure that every club in the voting council is still active and thoroughly represented.
+To keep track of activeness, the Secretary is to keep a log of every general meeting attended by each member of voting council, and each miscellaneous voter. If any individual voting body has missed *3 or more general meetings* since the previous reexamination, it is to be flagged at the next meeting.
+
+The reexamination process falls as follows;
+1. The President organizes and announces, at a general meeting either at the end of the 1st/3rd quarter or beginning of the 2nd/4th quarter, wherein a role-call of voting council is to be expected.
+2. Each member of voting council, and voter under the miscellaneous vote is to attend. The president is to check with each member of voting council that they are interested in renewing their position on voting council.
+3. Any voting body flagged for inactivity is to be warned. If any voting body recieves a warning at two consecutive reexaminations, they are to be removed from voting council for the next complete quarter. They may reapply to voting council from the beginning of the following quarter. Voting bodies with only one warning should be reminded of this fact.
+4. Each member that concurs to continue remaining on voting council is to have their voting rights renewed until the next reexamination.
+5. If a member cannot send a representative to the reexamination meeting, they are to be sent a message by the Secretary either before or after the meeting informing them of their number of missed general meetings and asking of their intent to remain on voting council. If the member of voting council does not reply within 24 hours of the beginning of the reexamination meeting and no other representative is accessible, they are to be removed for the next complete quarter.
 
 ## EDITING THE CHARTER
 This charter is expected to change as CAJA grows. The charter as available on the `main` branch (available at [github.com/california-jugger/charter](https://github.com/california-jugger/charter)) is always the current active charter.  
