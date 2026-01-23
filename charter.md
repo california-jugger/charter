@@ -24,7 +24,7 @@ Longer-term objectives:
 CAJA comprises all teams within California who voluntarily participate in the organization. The official functions of CAJA are performed by two bodies: the **voting council** and **executive committee**.
 
 **Voting Council:** One member per active member club who votes on major matters, and one miscellaneous member vote. Clubs with a vote choose their own representatives.  
-  - Application onto the voting council is listed in the 'Voting Rights' section.
+  - Application onto the voting council is listed in the [Voting Rights](#voting-rights) section.
   - Any member of the council can propose a vote. Not all CAJA proceedings or activities require a vote, but if a council member demands a vote on something then majority approval (simple majority, i.e. \>50%) is required for the motion to proceed.  
 
 **Executive Committee:** Appointed members of the community, led by the CAJA Chairperson, who execute the primary functions of NJA. Positions and responsibilities are described in more detail below.  
