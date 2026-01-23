@@ -104,7 +104,7 @@ A club may apply for voting rights via the following application method;
     c. The current active number of players.
     d. The location of practices, and when they are run.
     e. The distinction of the club from other nearby jugger clubs, if necessary.
-3. (?) The officer should then provide at least 2 forms of photographic or video evidence of a practice.
+3. The officer should then provide at least 2 forms of photo or video evidence of a practice.
 
 The legitimacy of the application is down to the discretion of the voting council. The clubs entrance into the voting council will be voted upon at the next general meeting *at least fourteen days* after the initial request is made.
 
